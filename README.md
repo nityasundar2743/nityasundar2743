@@ -11,7 +11,6 @@
 
 ## 🚀 About Me
 
-- 🏢 Currently interning as a Software Engineer at **Mphasis**
 - 💻 I love building robust Java applications and exploring new tech
 - 🤝 I enjoy collaborating on open-source and team projects
 - 🎯 Always striving to learn, grow, and solve meaningful problems
@@ -51,8 +50,8 @@ A full-stack Java web app for searching, booking, and managing flights — built
 
 - Advanced Spring ecosystem (Spring Security, Spring Data)
 - Microservices architecture & RESTful API design
-- Cloud deployment (AWS basics)
 - Clean Code, Design Patterns
+- Docker, FeathersJS
 
 ---
 
@@ -70,14 +69,8 @@ A full-stack Java web app for searching, booking, and managing flights — built
 
 ---
 
-## ⚡ Fun Facts
-
 - ☕ Runs on Java and coffee!
-- 🚲 Enjoys cycling & exploring new places
-- 🎮 Loves gaming and tech podcasts
 
 ---
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 _Thanks for stopping by! If you like what you see, let’s connect and build something awesome together!_ 🚀
