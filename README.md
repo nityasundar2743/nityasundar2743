@@ -31,21 +31,6 @@
 
 ---
 
-## ✈️ Featured Project
-
-### Flight Booking Application
-A full-stack Java web app for searching, booking, and managing flights — built with Spring Boot, JSP, and Servlets.
-
-> _“This project helped me master backend logic, user authentication, and connect real-world workflows with code!”_
-
-**Key Features:**
-- User Registration & Login (with role-based access)
-- Flight Search & Booking System
-- Booking Management Dashboard
-- Secure, session-based authentication
-
----
-
 ## 📚 What I’m Learning
 
 - Advanced Spring ecosystem (Spring Security, Spring Data)
